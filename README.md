@@ -21,6 +21,5 @@ Edit the **username.sh** file so that it:
 * Checks to see if the string typed by the user obeys the rules.
 * Prompts the user to try again if it does not.
 
-[Link Text](URL_to_wiki)
 
-[Javascript](https://github.com/Namsinh/CPSC354_Blogs.git)
+
