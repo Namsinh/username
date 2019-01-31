@@ -5,7 +5,7 @@ This repo contains a **zip.sh** bash script that checks whether a string is a va
 It is to be used as the starting point for a script to check whether a string satisfies the requirements for a username.
 
 The requirements for a username are:
-* The only characters that can be used are 
+* It must contain one or more of the following: 
   * lower case letters,
   * digits, and 
   * the underscore character 
